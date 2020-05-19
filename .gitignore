@@ -1,7 +1,0 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-*.suo
-/.vs
-/arduinoProjectTest/.vs/arduinoProjectTest/v16
